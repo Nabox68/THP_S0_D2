@@ -1,0 +1,69 @@
+.button2 {
+  padding:6px 6px 6px 6px;
+  background:#478bf9;
+  color:blue;
+  border-radius:2px;
+  border:none;
+  text-decoration: none;
+  font-size: small; }
+  
+.barrehaute2 {
+  display : flex;
+  justify-content : flex-end;
+  flex-direction : row; }
+
+  .barrehaute2 {
+    margin: 20px;
+  }
+
+.centre_page {
+  display : flex;
+  align-self: center;
+  Justify-content: center;
+}
+
+.logoGoogle {display : flex;
+  align-self: center;
+  Justify-content: center;}
+
+.logoGoogle {
+  margin: 200px;
+  width: 250px;
+}
+
+
+
+.recherche {
+  display :flex;
+  align-self: center;
+  justify-content: center;
+}
+
+.recherche {margin: -190px;}
+
+.buttons {
+  display :flex;
+  flex-direction: :column;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttons {margin: 200px;}
+
+
+.bas_page {
+  margin-top: 300px;
+  background-color: #f2f2f2;
+  height: 100px;
+  display:flex;
+  align-items: center;
+  flex-flow: column wrap;
+}
+
+
+
+a { color: grey;
+text-decoration: none;
+margin: 10px 15px 10px 15px;
+
+
